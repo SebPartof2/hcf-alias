@@ -2,7 +2,7 @@
 This file contains the normal HCF alias with aircraft code lookup.
 
 ## Usage
-.typeCODE
+.typeCODE  
 CODE being your ICAO 4 Letter ID
 
 ## Disclaimer
